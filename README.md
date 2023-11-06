@@ -6,4 +6,6 @@ Tableau Public Workbook: [Link](https://public.tableau.com/views/tableau-challen
 
 Analysis: [Link](analysis.md)
 
+Resources: https://citibikenyc.com/system-data
+
 Submission by: Andrea Aguilar
