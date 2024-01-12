@@ -1,13 +1,13 @@
 # Citi Bike Tableau Analysis
 
 ## Overview
-In this assignment, [data](https://citibikenyc.com/system-data) from the Citi Bike program was used to implement a dashboard on Tableau reporting findings about the following components: 
+In this assignment, [data](https://citibikenyc.com/system-data) from the Citi Bike program was used to implement a reporting process on Tableau presenting findings about the following components: 
   - Membership
   - Time Duration
   - Month and Time
   - Start and End Stations
 
-Tableau Public Workbook: [Link](https://public.tableau.com/views/tableau-challenge_16992433000010/2023Quarter3July-SeptemberCitiBikeDataStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Tableau Public Workbook: [2023: Quarter 3 (July - September) Citi Bike Data Story](https://public.tableau.com/views/tableau-challenge_16992433000010/2023Quarter3July-SeptemberCitiBikeDataStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Languages/ Tools:
   - Tableau
